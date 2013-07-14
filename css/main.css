@@ -40,7 +40,7 @@ header li {
 	list-style: none inside;
 }
 
-#toc a {
+#toc a, a {
 	color: #555;
 }
 
