@@ -1,0 +1,50 @@
+html, body {
+	font-family: Palatino,"Palatino Linotype",serif;
+	font-size: 18px;
+	line-height: 22px;
+	color: #333;
+}
+
+#container {
+	width: 720px;
+	padding: 30px;
+	margin: auto;
+}
+
+#stump {
+	position: fixed;
+	float: left;
+	width: 190px;
+}
+
+#siteheader {
+	text-transform: uppercase;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+.what {
+	color: #777;
+	font-size: 17px;
+	line-height: 21px;
+}
+
+header ul {
+	padding: 0;
+	margin: 0;
+}
+
+header li {
+	padding: 5px 0;
+	list-style: none inside;
+}
+
+#toc a {
+	color: #555;
+}
+
+#main {
+	margin-top: 0;
+	margin-left: 220px;
+}

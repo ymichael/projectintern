@@ -1,0 +1,25 @@
+!!!
+html
+  head
+    title Project Intern
+    link(href='http://fonts.googleapis.com/css?family=Open+Sans:400,800',rel='stylesheet',type='text/css')
+    link(rel="stylesheet",type="text/css",href="css/main.css")
+    body
+      #container
+        #stump
+          header
+            p
+              a#siteheader Project Intern
+          .what
+            p Project Intern is a collection of various initiatives to get more SoC students summer internships with tech companies.
+
+            p This site is one of the initiatives. We hope to consolidate all the information regarding getting an overseas summer internship.
+
+          footer
+            p &copy;
+
+        #main
+          if toc
+            h2 Table of Contents
+            #toc!= toc
+          #doc!= body
