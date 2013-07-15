@@ -30,6 +30,12 @@ html, body {
 	line-height: 21px;
 }
 
+footer {
+	color: #888;
+	font-size: 17px;
+	line-height: 21px;	
+}
+
 header ul {
 	padding: 0;
 	margin: 0;
