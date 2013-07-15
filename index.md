@@ -173,22 +173,31 @@ The document provides a nice basis for this section. It covers advice on how to 
 The following CS modules are mandatory for all students. Yet, it is easy to neglect them and/or not give them as much attention as they deserve. _Many students mistakenly think that, for instance, discrete math is a waste of time and completely irrelevant to programming and so they take it less seriously._
 
 #### CS1231 - Discrete Structures
+Every incoming freshman has to take this module. It  __is__ super important. Don’t take it lightly or give up when you find the module hard.
 
 #### CS2103 - Software Engineering
+For most people, this module’s project will be the first major software project they’ve done. Its a great opportunity to gain some experience regarding application design, working with a larger than usual codebase, as well as level up in terms of your coding competency.
 
 ### Optional Modules to take
 #### CS1101S - Programming Methodology
-In your first semester, you get a choice between CS1010 and CS1101S. __Take the latter__. No seriously.
+In your first semester, you get a choice between CS1010 and CS1101S. Take the latter. No seriously. While CS1101S is obviously going to be more intensive, both in terms of time and effort, the rigor in the module helps you grow.
+
+In addition, CS1101S is definitely more comparable to the introductory programming modules of top colleges than CS1010, and given the competition for internships, it should be pretty obvious why you would want to take the more rigorous module here.
+
+Most freshmen fall into the trap of thinking that because they are new to Computer science, they should take the lighter module to learn progressively. Many of the seniors who took CS1101S had no background. They didn’t do badly. There are, of course, exceptions. If you think you won’t be able to cope with the heavier course load, ask a senior or better yet, the professor.
+
+__Some people take CS1010 for a _free A_.__ Frankly nothing is free. Think about what you are paying for this supposedly _free_ A.
 
 #### CS2020 - Data Structures and Algorithms Accelerated
-#### CS3216 - Software Development on Evolving Platforms
-#### CS3217 - Software Engineering on Modern Application Platforms 
+In your second semester, you get the choice between two tracks for Data Structures and Algorithms. The first is “accelerated”, comprise one 6MC module. The other comprises two 4MC modules that will span two semesters.
 
-### What to optimize for
-#### Learning
+__If you can do it, (you need an A and above for your introductory programming module), you should do CS2020.__ It cannot be stressed enough how important Data Structures and Algorithms is in getting an internship offer. (See the technical interview section.) Learning these concepts earlier means more time for you to think about them and get good at apply them.
+
+Again, CS2020 is more align with the equivalent courses in the top CS colleges.
 
 ### Other things to do
-#### Teach. Become a teaching assistant if you can
+#### Teach. Be a teaching assistant if you can
+If you get the chance, become a TA. It is no secret that you learn when you teach. Most people are turned away because teaching is a highly time consuming endeavor. Its true, so do it and plan your time wisely.
 
 ## What companies look for in your resume
 ### Grades. _Exactly how important is your GPA?_
@@ -218,18 +227,29 @@ __You _don’t_ start preparing for technical interviews when you know you have 
 
 Some things like data structures and algorithms knowledge, problem solving skills and coding proficiency take time to build up. You’ll probably need more than a few months to get significantly better at this, so start early, and do it consistently. Practice makes perfect. The best part is that the skills are useful beyond just the technical interviews.
 
+Here are some tips on how to get better at the each of the following:
 ### Data Structures and Algorithms Knowledge
+// TODO
 
 ### Coding Proficiency
+// TODO
 
 ### Interview skills
+// TODO
+
 #### General Problem solving skills
+// TODO
+
 #### Technical questions
+// TODO
+
 #### Whiteboarding
+// TODO
+
 #### Non-technical questions
+// TODO
 
 ## Resources
-
 - http://alexeymk.com/a-brief-guide-to-tech-internships/ - Great article with advice on how to get an internship and why you should want one.
 - http://www.amazon.com/books/dp/098478280X - Cracking the Coding Interview. Talks about the recruitment process, gives advice on how to ace the technical interviews and has many practice questions.
 - http://internproject.io/finding-an-internship/coding-resumes-differ/ - A piece by the author of Cracking the Coding Interview on getting your resume suited to the company you are applying.
