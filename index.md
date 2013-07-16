@@ -3,12 +3,12 @@
 layout: base
 ---
 # What is Project Intern?
-Project Intern is a collection of various initiatives to get more SoC students summer internships with tech companies.  This document/site is one of the initiatives. We hope to consolidate all the information regarding getting an overseas summer internship. With a focus on:
+Project Intern is a collection of various initiatives to get more SoC students summer internships with tech companies.  This site is one of the initiatives. We hope to consolidate all the information regarding getting an overseas summer internship. With a focus on:
 
 - NUS SoC students
-- Internships with tech companies in the U.S._[*]_
+- Internships with tech companies in the U.S._[1]_
 
-_[*]_ We don’t mean to say that there are no interesting internships outside the US - in the past, SoC students have, in fact, interned at companies in Sweden, Canada, Japan and the UK. But the truth is that the biggest and most interesting tech companies are based in the US. Every summer, talent pours into the Valley, with interns taking up apartments and hotels and train stations, filling up hackathons and picnic fields and event halls. (These things happen at other technology centers in the US, of course. But SV is where it’s at).
+[1] We don’t mean to say that there are no interesting internships outside the US - in the past, SoC students have, in fact, interned at companies in Sweden, Canada, Japan and the UK. But the truth is that the biggest and most interesting tech companies are based in the US. Every summer, talent pours into the Valley, with interns taking up apartments and hotels and train stations, filling up hackathons and picnic fields and event halls. (These things happen at other technology centers in the US, of course. But SV is where it’s at).
 
 This means you’ll get to meet some incredibly talented people. It means that you’re probably going to have a lot of fun doing it. And it also means - given that you’ll be spending 3 months in such an environment - that you’ll learn a _lot_.
 
@@ -18,7 +18,7 @@ There are two general parts to Project Intern:
 - Raise awareness about overseas internships
 - Help students secure overseas internships
 
-This document/site will address both issues.
+This site will address both issues.
 
 # Why a summer internship?
 You’re an undergraduate, and you just survived yet another semester of NUS. You’re probably awaiting your results, and worrying about your CAP, and planning some holiday trip (take your pick: Thailand/Vietnam/Bali) with friends. Why bother doing an internship? 
@@ -43,7 +43,7 @@ __Reason 4__: you’ll have a ton of fun
 There are plenty of places to go in the US, and too many things to do. Be it shopping discounted designer goods at Gilroy, wine tasting at Napa, fruit picking at Portola Valley, visiting the MoMA, skydiving, hacking at the hackathon of the week (there is one every week, trust us), or hiking at Yosemite - you’ll be spoilt for choice. Doing an overseas internship is like doing an exchange, with the exception that you get paid to do it -and there is no studying involved.-
 
 ## Who’s hiring?
-The following list of companies have at some point taken interns from NUS._[*]_
+The following list of companies have at some point taken interns from NUS._[1]_
 
 - Google
 - Microsoft
@@ -52,7 +52,7 @@ The following list of companies have at some point taken interns from NUS._[*]_
 - Quora
 - Twitter
 
-_[*]_Taking international interns is harder for companies as they have to deal with the visa process and it costs more to fly you over and house you.
+[1] Taking international interns is harder for companies as they have to deal with the visa process and it costs more to fly you over and house you.
 
 Don't just restrict yourself to the companies here though. Applying to multiple companies greatly increases your odds of getting an offer (since tech companies are notorious for the false negatives in their recruitment process).
 
