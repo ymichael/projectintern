@@ -1,5 +1,4 @@
 ---
-
 layout: base
 ---
 # What is Project Intern?
@@ -247,7 +246,11 @@ Here are some tips on how to get better at the each of the following:
 // TODO
 
 #### Non-technical questions
-// TODO
+During the phone screens and technical interviews, you might be asked traditional interview questions like
+
+> "what do you think are you biggest weaknesses?"
+
+At the end of each interview, you'll also be asked if you have any questions. Make sure you think about these things in advance, they might not be as important as the technical questions, but people tend to overlook them. Remember, __the people interviewing you are also evaluating you as a person. Whether or not they'll be willing to work with you.__ This is not technical but nonetheless important.
 
 ## Resources
 - http://alexeymk.com/a-brief-guide-to-tech-internships/ - Great article with advice on how to get an internship and why you should want one.
