@@ -121,11 +121,12 @@ The conduct of a technical interview varies from company to company. In general,
 
 Interviews can either be conducted physically, or through a skype / conference call with the possible aid of an online collaborative editing tool like Google Docs or Stypi. Depending on how the interview is conducted, you may face several interviewers in one day, or have several rounds of interviews with an interviewer each. Most interviews will be no more than an hour long.
 
-There are 3 major types of question an interviewer may ask:
+There are 4 major types of question an interviewer may ask:
 
 1. __Design__ - you’ll be asked how you’d design a particular feature (the backend, the database etc.). For instance, you may be asked how you would implement a simplified version of Facebook’s news feed.
 2. __Coding Question__ - You will be given a problem and you’ll be asked to implement the solution. While algorithmic questions are highly likely, an ad hoc type of question may also be possible. Sometimes an interviewer wants to assess your basic coding ability or your familiarity with one specific programming language that you may have claimed you were familiar with (e.g a pointer specific question in C/C++).
 3. __Test Question__ - You may be asked how you’d test a particular feature or code.
+4. __Logic Puzzles__ - Brainteasers are increasingly becoming less common but they still exists. 
 
 You have to be mindful of the following:
 
@@ -190,9 +191,12 @@ __Some people take CS1010 for a _free A_.__ Frankly nothing is free. Think about
 #### CS2020 - Data Structures and Algorithms Accelerated
 In your second semester, you get the choice between two tracks for Data Structures and Algorithms. The first is “accelerated”, comprise one 6MC module. The other comprises two 4MC modules that will span two semesters.
 
-__If you can do it, (you need an A and above for your introductory programming module), you should do CS2020.__ It cannot be stressed enough how important Data Structures and Algorithms is in getting an internship offer. (See the technical interview section.) Learning these concepts earlier means more time for you to think about them and get good at apply them.
+__If you can do it, (you need an A- and above for your introductory programming module), you should do CS2020.__ It cannot be stressed enough how important Data Structures and Algorithms is in getting an internship offer. (See the technical interview section.) Learning these concepts earlier means more time for you to think about them and get good at apply them.
 
 Again, CS2020 is more align with the equivalent courses in the top CS colleges.
+
+#### CS3230 - Algorithms
+Take this class seriously. It is unfortunate due to the large class size that past iterations of this course have not been conducted in the most condusive manner. However do not underestimate the importance of acquiring strong and formal knowledge of algorithm, proofs, and basic complexity theory.
 
 ### Other things to do
 #### Teach. Be a teaching assistant if you can
@@ -227,30 +231,55 @@ __You _don’t_ start preparing for technical interviews when you know you have 
 Some things like data structures and algorithms knowledge, problem solving skills and coding proficiency take time to build up. You’ll probably need more than a few months to get significantly better at this, so start early, and do it consistently. Practice makes perfect. The best part is that the skills are useful beyond just the technical interviews.
 
 Here are some tips on how to get better at the each of the following:
+
 ### Data Structures and Algorithms Knowledge
-// TODO
+It will definitely help if you get a book. The de facto textbook for undergraduates is CLRS. While there are pirated versions in softcopy that you may get your hands on online, this is strongly discouraged. First off, it's illegal. Next, the return of investment you put into getting a proper hardcopy (or Kindle version) greatly outweighs the cost. Think about the tuition fee you are paying. The cost of getting a good textbook is substantially less, and will benefit you more than some modules you are going to take. Any serious CS student needs to get their hands on at least one good algorithms and data structure book.
+
+Read extensively, and more importantly, thoroughly. Understand the proofs.  
 
 ### Coding Proficiency
-// TODO
+Code widely. The more hours you clock coding under you, the more proficient you'll become. You don't need to be implementing complex algorithms or machine learning systems all the time. Even small web projects with some logic code help. The hours you put into the practice will train and strengthen your proficiency in implementing an intended logic in an elegant and concise manner. This helps a lot. 
 
-### Interview skills
-// TODO
+That said, be daring to explore. If you're feeling comfortable all the time when coding, something is wrong. When you learn a new algorithm or data structure, go implement it in your language of choice. Play with it. Optimize it. Understand it well. Internalize it. 
+
+Read exiting code. There are many open source projects and there are no lack of good quality code you can learn from. Many programmers upload their code for certain data structure or algorithms freely on their website or blogs. Implement yourself, and then look at how other smarter and more experienced people implemented their version. There are a lot of things you can learn from this; from new programming language constructs or sugars you never knew existed to very basic patterns and styles that are almost like poetry.
 
 #### General Problem solving skills
 // TODO
+A book that is also highly recommended (even if somewhat old) is How to Solve It by George Polya.
 
 #### Technical questions
-// TODO
+Having competitive programming experience helps a lot. In line with helping yourself ramp up on data structures and algorithms knowledge, as well as increasing general coding proficiency, buying the Competitive Programming book authored by one of our own NUS Lecturer may be useful. There is a free and complementing tool (http://uhunt.felix-halim.net/) that categorizes many UVa problems into problem categories. This is helpful if you like a systematic manner in building up your core algorithm knowledge.
 
-#### Whiteboarding
+A strong mathematical background is extremely important. Do not ever neglect your core mathematics module (especially CS1231 and CS1101R) even if you find them alien or difficult.   
+
+### Interview skills
 // TODO
+#### Whiteboarding and the meta-game
+// TODO: better classification with the above section (interview skils) 
+Remember - an interview (especially one that is conducted face to face) is for your interviewer to assess your suitability and fit in the company. It is not an automated test (you'll not automatically fail even if you answered some questions incorrectly). As mentioned above, make use of the whiteboard to your advantage.
+
+Always think computationally. The following two "puzzles" were actual interview problems (of two separate interviews from two different big companies):
+
+- You have a special type of egg that will cracked when dropped above a fixed height H metres, where H < 20. Given that you have 4 of such identical eggs, what is the minimum number of drops you need to determine the value of H (in the worst case)?
+
+- It is late at night, and there is a bridge that can only take 2 people. There are 4 man sharing a torchlight on one side of the bridge. They take different times to cross the bridge (1s, 2s, 5s, 10s). They will need the torchlight with them when they cross the bridge (and hence if two people walks together they will go at the pace of the slower person). What is the minimum time required for all 4 of them to cross the bridge?
+   
+You should solve the problems as given of course. Develop a heuristics as you become famliar with the mechanics of the problem, and make it clear to your interviewer (through your whiteboard and think-aloud) that you are methodogical in your approach. This is something they will appreciate. However, also be aware that while both of the problems have fixed and given parameters, they can actually be abstracted into a more general problem. The more general problem may have a computationally viable solution. This is worth pointing out and discussing, even if it's not the original intent of the interviewer. For instance, the first problem is actually a rather classic example of a Dynammic Programming problem.
+
+In many cases, puzzles (if given) will have some relation to some concept in Computer Science (entrophy and data compression, bitmask representation, SAT modelling, constraint satisfaction problems, finite state automatas etc.) Many of the relationship are rather implicit (and sometimes the interviewer may not even have thought of it!), but it certainly helps if you noticed the link. 
+
+When attempting puzzles yourself, do not be satisfied with just knowing the solution. This is a folly that many people who wants a quick and easy way to master technical interviews make. They go through a huge repertoire / antalogy of interview problems and puzzles, get familiar with the solution, and move on. This may work some of the time, but from time to time you get an interviewer who are extremely skilled at detecting students who game technical interviews. Even when you finally got (or read) the solution, continue to dissect the problem further. Attempt to prove the solution formally and rigourously. Question what assumptions or aspects of the problem makes the solution valid. Discuss the problem with friends. This will definitely help your general problem solving skills.    
 
 #### Non-technical questions
+Be extremely honest with yourself. Get feedback from peers and mentors as well as introspect. This helps you become more earnest and sincere when it comes to an interview, and it'll really show.
 During the phone screens and technical interviews, you might be asked traditional interview questions like
 
 > "what do you think are you biggest weaknesses?"
 
 At the end of each interview, you'll also be asked if you have any questions. Make sure you think about these things in advance, they might not be as important as the technical questions, but people tend to overlook them. Remember, __the people interviewing you are also evaluating you as a person. Whether or not they'll be willing to work with you.__ This is not technical but nonetheless important.
+
+Your resume has another role on top of getting you past the initial filter and landing the interview. Most of your interviewers will have with them a copy of your resume. Your resume will be a narrative about you that you should curate carefully. Be smart about the story you want to tell through your resume; it is an important tool in an interview process. Put the things that you'd like to talk about in your resume. Your interviewers make take cues from your resume and ask you questions about them.
 
 ## Resources
 - http://alexeymk.com/a-brief-guide-to-tech-internships/ - Great article with advice on how to get an internship and why you should want one.
