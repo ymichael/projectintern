@@ -61,6 +61,14 @@ html, body {
 	line-height: 21px;
 }
 
+blockquote {
+	margin-left: 0;
+	margin-right: 0;
+	padding-left: 30px;
+	padding-right: 30px;
+	border-left: 8px solid #deebfd;
+}
+
 footer {
 	color: #888;
 	font-size: 17px;
