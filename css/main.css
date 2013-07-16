@@ -47,6 +47,12 @@ html, body {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 22px;
 	font-weight: bold;
+	color: #0b4b9e;
+}
+
+.link {
+	font-weight: bold;
+	color: #0b4b9e;
 }
 
 .what {
