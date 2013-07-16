@@ -5,18 +5,43 @@ html, body {
 	color: #333;
 }
 
-#container {
-	width: 720px;
-	padding: 30px;
-	margin: auto;
+/**
+ * Desktop
+ */
+@media screen and (min-width: 700px) {
+	#container {
+		width: 720px;
+		padding: 30px;
+		margin: auto;
+	}
+
+	#stump {
+		position: fixed;
+		float: left;
+		width: 190px;
+	}
+
+	#main {
+		margin-top: 0;
+		margin-left: 220px;
+	}
 }
 
-#stump {
-	position: fixed;
-	float: left;
-	width: 190px;
+/**
+ * Mobile
+ */
+@media screen and (max-width: 700px) {
+	#container {
+		max-width: 600px;
+		padding: 30px;
+		margin: auto;
+	}
 }
 
+
+/**
+ * Generic Styles
+ */
 #siteheader {
 	text-transform: uppercase;
 	font-family: 'Open Sans', sans-serif;
@@ -48,9 +73,4 @@ header li {
 
 #toc a, a {
 	color: #555;
-}
-
-#main {
-	margin-top: 0;
-	margin-left: 220px;
 }
