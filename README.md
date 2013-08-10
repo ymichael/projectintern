@@ -3,16 +3,16 @@
 Contains information about summer internships, with a focus on NUS SoC.
 
 # Generating Site
-- Install [outline](https://github.com/ymichael/outline).
+- Install [outline-md](https://github.com/ymichael/outline).
 
 ```
-$ npm install -g outline
+$ npm install -g outline-md
 ```
 
 - Run outline to regenerate html files.
 
 ```
-outline
+outline-md
 ```
 # Credits
 
