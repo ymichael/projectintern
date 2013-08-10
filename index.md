@@ -293,6 +293,6 @@ Your resume has another role on top of getting you past the initial filter and l
 - http://www.amazon.com/books/dp/098478280X - Cracking the Coding Interview. Talks about the recruitment process, gives advice on how to ace the technical interviews and has many practice questions.
 - http://internproject.io/finding-an-internship/coding-resumes-differ/ - A piece by the author of Cracking the Coding Interview on getting your resume suited to the company you are applying.
 - http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
-- www.quora.com/Algorithms/What-are-the-ways-to-utilize-6-months-to-build-skill-set-to-get-into-Facebook-or-Google
+- http://www.quora.com/Algorithms/What-are-the-ways-to-utilize-6-months-to-build-skill-set-to-get-into-Facebook-or-Google
 - https://www.quora.com/Engineering-Recruiting/What-should-I-do-in-the-next-6-months-to-get-into-a-company-like-Amazon-Google
 - https://www.quora.com/Algorithms/What-are-the-ways-to-utilize-6-months-to-build-skill-set-to-get-into-Facebook-or-Google/answer/Nandish-Punter
