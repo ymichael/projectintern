@@ -24,7 +24,7 @@ You’re an undergraduate, and you just survived yet another semester of NUS. Yo
 
 There are a couple of reasons. 
 
-A summer internship is a 3 month stint at a company. During which you’ll essentially be working as you would a real job. An internship with a large company in the valley pays USD$7000-USD$8000 (Google, Facebook, Microsoft, Palantir), with free lodging, food, bikes, laptops, etc depending on the company and ridiculousness of the recruiting department. An internship with a valley startup pays USD$3000 - USD$8000, depending on the stage of the startup, and your role. Of course, only the more established ones (e.g. Quora) can afford to match the compensation of the larger companies.
+A summer internship is a 3 month stint at a company. During which you’ll essentially be working as you would a real job. An internship with a large company in the valley pays USD$7000-USD$8000 (Google, Facebook, Microsoft, Palantir), with free lodging, food, bikes, laptops, etc depending on the company and ridiculousness of the recruiting department. An internship with a valley startup pays USD$3000 - USD$8000, depending on the stage of the startup, and your role. Of course, only the more established ones (e.g Quora) can afford to match the compensation of the larger companies.
 
 So __reason 1__: you’ll earn a lot. Way more than if you spend your parent’s money in Bali. (Well, you’ll still be spending money - cough, Amazon Prime cough - but at least it’s yours).
 
@@ -103,7 +103,7 @@ The following resources best explain how to get your resume right:
 
 - http://www.careercup.com/resume
 - https://www.quora.com/Job-Search/What-are-common-mistakes-that-applicants-make-when-writing-their-resumes-for-tech-companies/answer/Gayle-Laakmann-McDowell
-- http://www.youtube.com/watch?v=rEJzOhC5ZtQ - Video of a presentaion by Gayle Laakman McDowell who worked as a software engineer at Microsoft, Apple and Google and was on Google’s hiring committee. Great insights.
+- http://www.youtube.com/watch?v=rEJzOhC5ZtQ - Video of a presentation by Gayle Laakman McDowell who worked as a software engineer at Microsoft, Apple and Google and was on Google’s hiring committee. Great insights.
 
 ## Technical Interviews
 It will be expected of candidates to have the following set of knowledge (non exhaustive list):
@@ -111,7 +111,7 @@ It will be expected of candidates to have the following set of knowledge (non ex
 - Basic programming skills (able to write code)
 - Appreciation for computation semantics - primitives, combination, abstractions, even if implicitly
 - Algorithms and Data structures - you’re expected to have completed and have scored well in the algorithms and data structures course, or have the equivalent knowledge 
-- Sensibility in systems design and database design - understanding the tradeoffs
+- Sensibility in systems design and database design - understanding the trade-offs
 - Know at least one programming language well, and ability to pick up a new language on the fly
 - Basic knowledge in logic, formal systems, and proof systems
 - General problem solving skills
@@ -123,7 +123,7 @@ Interviews can either be conducted physically, or through a skype / conference c
 
 There are 4 major types of question an interviewer may ask:
 
-1. __Design__ - you’ll be asked how you’d design a particular feature (the backend, the database etc.). For instance, you may be asked how you would implement a simplified version of Facebook’s news feed.
+1. __Design__ - you’ll be asked how you’d design a particular feature (the back-end, the database etc.). For instance, you may be asked how you would implement a simplified version of Facebook’s news feed.
 2. __Coding Question__ - You will be given a problem and you’ll be asked to implement the solution. While algorithmic questions are highly likely, an ad hoc type of question may also be possible. Sometimes an interviewer wants to assess your basic coding ability or your familiarity with one specific programming language that you may have claimed you were familiar with (e.g a pointer specific question in C/C++).
 3. __Test Question__ - You may be asked how you’d test a particular feature or code.
 4. __Logic Puzzles__ - Brainteasers are increasingly becoming less common but they still exists. 
@@ -136,7 +136,7 @@ The aim of the interviewers is to assess your competency as an engineer in the s
 
 __Making Assumptions__
 
-Be mindful of the assumptions you’re making. This applies to all types of problems (design, coding, etc.) For instance, when asked to implement a routine, it may be convenient to make assumptions like the validity of the argument values passed in. While this is generally a reasonable assumption to make, it doesn’t hurt to check and to practise defensive coding in your implementation.
+Be mindful of the assumptions you’re making. This applies to all types of problems (design, coding, etc.) For instance, when asked to implement a routine, it may be convenient to make assumptions like the validity of the argument values passed in. While this is generally a reasonable assumption to make, it doesn’t hurt to check and to practice defensive coding in your implementation.
 
 __The flow of the interview__
 
@@ -196,7 +196,7 @@ __If you can do it, (you need an A- and above for your introductory programming 
 Again, CS2020 is more align with the equivalent courses in the top CS colleges.
 
 #### CS3230 - Algorithms
-Take this class seriously. It is unfortunate due to the large class size that past iterations of this course have not been conducted in the most condusive manner. However do not underestimate the importance of acquiring strong and formal knowledge of algorithm, proofs, and basic complexity theory.
+Take this class seriously. It is unfortunate due to the large class size that past iterations of this course have not been conducted in the most conducive manner. However do not underestimate the importance of acquiring strong and formal knowledge of algorithm, proofs, and basic complexity theory.
 
 ### Other things to do
 #### Teach. Be a teaching assistant if you can
@@ -213,7 +213,7 @@ Your CAP is probably only going to be useful in the early stages of the recruitm
 ### Side Projects
 We can’t stress the importance of this enough. Unless you’ve somehow manage to prove that you can program (Winning Informatics Olympiad for instance), this is your best bet in showing the companies you can.
 
-Being in college, your resume is probably empty or filled with irrelevant experience like National Service, being a Student Leader in some organisation, Community service etc. Not to downplay these achievements, (which you should definitely put on your resume as they speak of your other qualities) but companies aren’t exactly going to hire you to be a software engineer based solely on these qualities.
+Being in college, your resume is probably empty or filled with irrelevant experience like National Service, being a Student Leader in some organization, Community service etc. Not to downplay these achievements, (which you should definitely put on your resume as they speak of your other qualities) but companies aren’t exactly going to hire you to be a software engineer based solely on these qualities.
 
 No. They are looking for evidence that:
 
@@ -242,7 +242,7 @@ Code widely. The more hours you clock coding under you, the more proficient you'
 
 That said, be daring to explore. If you're feeling comfortable all the time when coding, something is wrong. When you learn a new algorithm or data structure, go implement it in your language of choice. Play with it. Optimize it. Understand it well. Internalize it. 
 
-__Read exixting code.__ There are many open source projects and there is no lack of good quality code you can learn from. Many programmers upload their code for certain data structure or algorithms freely on their website or blogs. Implement some yourself, and then look at how other (hopefully smarter and more experienced) people implemented theirs. There are a lot of things you can learn from this; from new programming language constructs or syntactic sugars you never knew existed, to very basic patterns and styles that make up good code.
+__Read existing code.__ There are many open source projects and there is no lack of good quality code you can learn from. Many programmers upload their code for certain data structure or algorithms freely on their website or blogs. Implement some yourself, and then look at how other (hopefully smarter and more experienced) people implemented theirs. There are a lot of things you can learn from this; from new programming language constructs or syntactic sugars you never knew existed, to very basic patterns and styles that make up good code.
 
 
 #### General Problem solving skills
@@ -260,7 +260,7 @@ A strong mathematical background is extremely important. Do not ever neglect you
 // TODO
 
 #### Whiteboarding and the meta-game
-// TODO: better classification with the above section (interview skils)
+// TODO: better classification with the above section (interview skills)
 
 Remember that an interview (especially one that is conducted face to face) is for your interviewer to assess your suitability and fit in the company. It is not an automated test (you'll not automatically fail even if you answered some questions incorrectly). As mentioned above, make use of the whiteboard to your advantage.
 
@@ -270,13 +270,13 @@ Always think computationally. The following two "puzzles" were actual interview 
 
 - It is late at night and there is a bridge that can only take 2 people. There are 4 man sharing a torchlight on one side of the bridge. They take different times to cross the bridge (1s, 2s, 5s, 10s). They will need the torchlight with them when they cross the bridge (and hence if two people walks together they will go at the pace of the slower person). What is the minimum time required for all 4 of them to cross the bridge?
    
-You should solve the problems as given of course. Develop a heuristics as you become famliar with the mechanics of the problem, and make it clear to your interviewer (through your whiteboard and think-aloud) that you are methodogical in your approach. This is something they will appreciate. However, also be aware that while both of the problems have fixed and given parameters, they can actually be abstracted into a more general problem. The more general problem may have a computationally viable solution. This is worth pointing out and discussing, even if it's not the original intent of the interviewer. For instance, the first problem is actually a rather classic example of a Dynammic Programming problem.
+You should solve the problems as given of course. Develop a heuristics as you become familiar with the mechanics of the problem, and make it clear to your interviewer (through your whiteboard and think-aloud) that you are methodological in your approach. This is something they will appreciate. However, also be aware that while both of the problems have fixed and given parameters, they can actually be abstracted into a more general problem. The more general problem may have a computationally viable solution. This is worth pointing out and discussing, even if it's not the original intent of the interviewer. For instance, the first problem is actually a rather classic example of a Dynamic Programming problem.
 
-In many cases, puzzles (if given) will have some relation to some concept in Computer Science (entrophy and data compression, bitmask representation, SAT modelling, constraint satisfaction problems, finite state automatas etc.) Many of the relationship are rather implicit (and sometimes the interviewer may not even have thought of it!), but it certainly helps if you noticed the link. 
+In many cases, puzzles (if given) will have some relation to some concept in Computer Science (entropy and data compression, bitmask representation, SAT modeling, constraint satisfaction problems, finite state automatas etc.) Many of the relationship are rather implicit (and sometimes the interviewer may not even have thought of it!), but it certainly helps if you noticed the link. 
 
-When attempting puzzles yourself, do not be satisfied with just knowing the solution. This is a trap that many people wanting a quick and easy way to master technical interviews make. They go through a huge repertoire / antalogy of interview problems and puzzles, get familiar with the solution, and move on. This may work some of the time, but from time to time you get an interviewer who are extremely skilled at detecting students who game technical interviews._[1]_ Even when you finally got (or read) the solution, continue to dissect the problem further. Attempt to prove the solution formally and rigourously. Question what assumptions or aspects of the problem makes the solution valid. Discuss the problem with friends. This will definitely help your general problem solving skills.
+When attempting puzzles yourself, do not be satisfied with just knowing the solution. This is a trap that many people wanting a quick and easy way to master technical interviews make. They go through a huge repertoire / anthology of interview problems and puzzles, get familiar with the solution, and move on. This may work some of the time, but from time to time you get an interviewer who are extremely skilled at detecting students who game technical interviews._[1]_ Even when you finally got (or read) the solution, continue to dissect the problem further. Attempt to prove the solution formally and rigorously. Question what assumptions or aspects of the problem makes the solution valid. Discuss the problem with friends. This will definitely help your general problem solving skills.
 
-[1] Interviews at large companies typically go through rigourous training before they are allowed to conduct interviews. (For instance, workshops, shadowing interviews etc.)
+[1] Interviews at large companies typically go through rigorous training before they are allowed to conduct interviews. (For instance, workshops, shadowing interviews etc.)
 
 #### Non-technical questions
 Be extremely honest with yourself. Get feedback from peers and mentors as well as introspect. This helps you become more earnest and sincere when it comes to an interview, and it'll really show.
@@ -293,6 +293,6 @@ Your resume has another role on top of getting you past the initial filter and l
 - http://www.amazon.com/books/dp/098478280X - Cracking the Coding Interview. Talks about the recruitment process, gives advice on how to ace the technical interviews and has many practice questions.
 - http://internproject.io/finding-an-internship/coding-resumes-differ/ - A piece by the author of Cracking the Coding Interview on getting your resume suited to the company you are applying.
 - http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
-- www.quora.com/Algorithms/What-are-the-ways-to-utilize-6-months-to-build-skill-set-to-get-into-Facebook-or-Google
+- http://www.quora.com/Algorithms/What-are-the-ways-to-utilize-6-months-to-build-skill-set-to-get-into-Facebook-or-Google
 - https://www.quora.com/Engineering-Recruiting/What-should-I-do-in-the-next-6-months-to-get-into-a-company-like-Amazon-Google
 - https://www.quora.com/Algorithms/What-are-the-ways-to-utilize-6-months-to-build-skill-set-to-get-into-Facebook-or-Google/answer/Nandish-Punter
