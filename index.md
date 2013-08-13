@@ -289,7 +289,7 @@ At the end of each interview, you'll also be asked if you have any questions. Ma
 Your resume has another role on top of getting you past the initial filter and landing the interview. Most of your interviewers will have with them a copy of your resume. Your resume will be a narrative about you that you should curate carefully. Be smart about the story you want to tell through your resume; it is an important tool in an interview process. Put the things that you'd like to talk about in your resume. Your interviewers make take cues from your resume and ask you questions about them.
 
 ## Resources
-- [A Guide for Technical Development from 'Grow Beyond With Google'](http://ymichael.github.io/projectintern/_assets/GrowBeyondwithGoogleGuideforTechnicalDevelopment.pdf)
+- [A Guide for Technical Development from 'Grow Beyond With Google'](_assets/GrowBeyondwithGoogleGuideforTechnicalDevelopment.pdf)
 - [Great article with advice on how to get an internship and why you should want one.](http://alexeymk.com/a-brief-guide-to-tech-internships/)
 - [Cracking the Coding Interview. Talks about the recruitment process, gives advice on how to ace the technical interviews and has many practice questions.](http://www.amazon.com/books/dp/098478280X )
 - [A piece by the author of Cracking the Coding Interview on getting your resume suited to the company you are applying.](http://internproject.io/finding-an-internship/coding-resumes-differ/)
