@@ -200,7 +200,7 @@ Take this class seriously. It is unfortunate due to the large class size that pa
 
 ### Other things to do
 #### Teach. Be a teaching assistant if you can
-If you get the chance, become a TA. It is no secret that you learn when you teach. Most people are turned away because teaching is a highly time consuming endeavor. Its true, so do it and plan your time wisely.
+If you get the chance, become a TA. It is no secret that you learn when you teach. Most people are turned away because teaching is a highly time consuming endeavor. It's true, so do plan your time wisely.
 
 ## What companies look for in your resume
 ### Grades. _Exactly how important is your GPA?_
