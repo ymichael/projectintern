@@ -20,9 +20,9 @@ There are two general parts to Project Intern:
 This site will address both issues.
 
 # Why a summer internship?
-You’re an undergraduate, and you just survived yet another semester of NUS. You’re probably awaiting your results, and worrying about your CAP, and planning some holiday trip (take your pick: Thailand/Vietnam/Bali) with friends. Why bother doing an internship? 
+You’re an undergraduate, and you just survived yet another semester of NUS. You’re probably awaiting your results, and worrying about your CAP, and planning some holiday trip (take your pick: Thailand/Vietnam/Bali) with friends. Why bother doing an internship?
 
-There are a couple of reasons. 
+There are a couple of reasons.
 
 A summer internship is a 3 month stint at a company. During which you’ll essentially be working as you would a real job. An internship with a large company in the valley pays USD$7000-USD$8000 (Google, Facebook, Microsoft, Palantir), with free lodging, food, bikes, laptops, etc depending on the company and ridiculousness of the recruiting department. An internship with a valley startup pays USD$3000 - USD$8000, depending on the stage of the startup, and your role. Of course, only the more established ones (e.g Quora) can afford to match the compensation of the larger companies.
 
@@ -31,9 +31,9 @@ So __reason 1__: you’ll earn a lot. Way more than if you spend your parent’s
 Money is not a good enough reason, though. There are other more important reasons. We cover some of the more obvious ones here:
 
 __Reason 2__: you’ll learn a lot
-If you want to be good at what you do, you better optimize for learning. Scoring an internship forces you to _become_ good at the fundamentals of Computer Science. Interning in the valley, with some of the brightest people in computing, will teach you way more about the industry and computer science than studying books alone ever will. 
+If you want to be good at what you do, you better optimize for learning. Scoring an internship forces you to _become_ good at the fundamentals of Computer Science. Interning in the valley, with some of the brightest people in computing, will teach you way more about the industry and computer science than studying books alone ever will.
 
-Practically speaking, what this feels like is that you’ll now return to school with context for all the things your Professors are teaching you. You’ll find more things interesting and useful. You’ll see why Machine Learning is hot, even if the equations your professor throws on the board are anything but. You might even begin reading papers, hoping to collect as many good ideas for technical projects in the future. 
+Practically speaking, what this feels like is that you’ll now return to school with context for all the things your Professors are teaching you. You’ll find more things interesting and useful. You’ll see why Machine Learning is hot, even if the equations your professor throws on the board are anything but. You might even begin reading papers, hoping to collect as many good ideas for technical projects in the future.
 
 __Reason 3__: you’ll get to try out what you actually do after graduation
 A tech internship is essentially a trial for what working full-time at the company is like. You spend three months discovering what works for you. The best part is, if you like it, you’ll already have a foot in the door at the company, or any other company for that matter. Imagine what having Google, Microsoft, Facebook or any other tech company on your resume will do for you.
@@ -110,7 +110,7 @@ It will be expected of candidates to have the following set of knowledge (non ex
 
 - Basic programming skills (able to write code)
 - Appreciation for computation semantics - primitives, combination, abstractions, even if implicitly
-- Algorithms and Data structures - you’re expected to have completed and have scored well in the algorithms and data structures course, or have the equivalent knowledge 
+- Algorithms and Data structures - you’re expected to have completed and have scored well in the algorithms and data structures course, or have the equivalent knowledge
 - Sensibility in systems design and database design - understanding the trade-offs
 - Know at least one programming language well, and ability to pick up a new language on the fly
 - Basic knowledge in logic, formal systems, and proof systems
@@ -126,7 +126,7 @@ There are 4 major types of question an interviewer may ask:
 1. __Design__ - you’ll be asked how you’d design a particular feature (the back-end, the database etc.). For instance, you may be asked how you would implement a simplified version of Facebook’s news feed.
 2. __Coding Question__ - You will be given a problem and you’ll be asked to implement the solution. While algorithmic questions are highly likely, an ad hoc type of question may also be possible. Sometimes an interviewer wants to assess your basic coding ability or your familiarity with one specific programming language that you may have claimed you were familiar with (e.g a pointer specific question in C/C++).
 3. __Test Question__ - You may be asked how you’d test a particular feature or code.
-4. __Logic Puzzles__ - Brainteasers are increasingly becoming less common but they still exists. 
+4. __Logic Puzzles__ - Brainteasers are increasingly becoming less common but they still exists.
 
 You have to be mindful of the following:
 
@@ -235,12 +235,12 @@ Here are some tips on how to get better at the each of the following:
 ### Data Structures and Algorithms Knowledge
 It will definitely help if you get an algorithms book. The de facto textbook for undergraduates is [CLRS](http://en.wikipedia.org/wiki/Introduction_to_Algorithms). While there are pirated versions in softcopy that you may get your hands on online, this is strongly discouraged. First off, it's illegal. More importantly, the return of investment you get from a proper hardcopy (or Kindle version) greatly outweighs the cost. Think about the tuition fee you are paying. The cost of getting a good textbook is substantially less, and will benefit you more than some modules you are going to take. Any serious CS student needs to get their hands on at least one good algorithms and data structure book.
 
-Read extensively, and more importantly, thoroughly. Understand the proofs.  
+Read extensively, and more importantly, thoroughly. Understand the proofs.
 
 ### Coding Proficiency
-Code widely. The more hours you clock coding under you, the more proficient you'll become. You don't need to be implementing complex algorithms or machine learning systems all the time. Even small web projects with some logic code help. The hours you put into the practice will train and strengthen your proficiency in implementing an intended logic in an elegant and concise manner. This helps a lot. 
+Code widely. The more hours you clock coding under you, the more proficient you'll become. You don't need to be implementing complex algorithms or machine learning systems all the time. Even small web projects with some logic code help. The hours you put into the practice will train and strengthen your proficiency in implementing an intended logic in an elegant and concise manner. This helps a lot.
 
-That said, be daring to explore. If you're feeling comfortable all the time when coding, something is wrong. When you learn a new algorithm or data structure, go implement it in your language of choice. Play with it. Optimize it. Understand it well. Internalize it. 
+That said, be daring to explore. If you're feeling comfortable all the time when coding, something is wrong. When you learn a new algorithm or data structure, go implement it in your language of choice. Play with it. Optimize it. Understand it well. Internalize it.
 
 __Read existing code.__ There are many open source projects and there is no lack of good quality code you can learn from. Many programmers upload their code for certain data structure or algorithms freely on their website or blogs. Implement some yourself, and then look at how other (hopefully smarter and more experienced) people implemented theirs. There are a lot of things you can learn from this; from new programming language constructs or syntactic sugars you never knew existed, to very basic patterns and styles that make up good code.
 
@@ -254,7 +254,7 @@ A book that is also highly recommended (even if somewhat old) is:
 #### Technical questions
 Having competitive programming experience helps a lot. In line with helping yourself ramp up on data structures and algorithms knowledge, as well as increasing general coding proficiency, buying the Competitive Programming book authored by one of our own NUS Lecturer may be useful. There is a free and complementing tool [http://uhunt.felix-halim.net/](http://uhunt.felix-halim.net/) that categorizes many UVa problems into problem categories. This is helpful if you prefer a systematic manner of building up your core algorithm knowledge.
 
-A strong mathematical background is extremely important. Do not ever neglect your core mathematics modules (especially CS1231 and CS1101R) even if you find them to be foreign or difficult.   
+A strong mathematical background is extremely important. Do not ever neglect your core mathematics modules (especially CS1231 and MA1101R) even if you find them to be foreign or difficult.
 
 ### Interview skills
 // TODO
@@ -269,10 +269,10 @@ Always think computationally. The following two "puzzles" were actual interview 
 - You have a special type of egg that will cracked when dropped above a fixed height H metres, where H < 20. Given that you have 4 of such identical eggs, what is the minimum number of drops you need to determine the value of H (in the worst case)?
 
 - It is late at night and there is a bridge that can only take 2 people. There are 4 man sharing a torchlight on one side of the bridge. They take different times to cross the bridge (1s, 2s, 5s, 10s). They will need the torchlight with them when they cross the bridge (and hence if two people walks together they will go at the pace of the slower person). What is the minimum time required for all 4 of them to cross the bridge?
-   
+
 You should solve the problems as given of course. Develop a heuristics as you become familiar with the mechanics of the problem, and make it clear to your interviewer (through your whiteboard and think-aloud) that you are methodological in your approach. This is something they will appreciate. However, also be aware that while both of the problems have fixed and given parameters, they can actually be abstracted into a more general problem. The more general problem may have a computationally viable solution. This is worth pointing out and discussing, even if it's not the original intent of the interviewer. For instance, the first problem is actually a rather classic example of a Dynamic Programming problem.
 
-In many cases, puzzles (if given) will have some relation to some concept in Computer Science (entropy and data compression, bitmask representation, SAT modeling, constraint satisfaction problems, finite state automatas etc.) Many of the relationship are rather implicit (and sometimes the interviewer may not even have thought of it!), but it certainly helps if you noticed the link. 
+In many cases, puzzles (if given) will have some relation to some concept in Computer Science (entropy and data compression, bitmask representation, SAT modeling, constraint satisfaction problems, finite state automatas etc.) Many of the relationship are rather implicit (and sometimes the interviewer may not even have thought of it!), but it certainly helps if you noticed the link.
 
 When attempting puzzles yourself, do not be satisfied with just knowing the solution. This is a trap that many people wanting a quick and easy way to master technical interviews make. They go through a huge repertoire / anthology of interview problems and puzzles, get familiar with the solution, and move on. This may work some of the time, but from time to time you get an interviewer who are extremely skilled at detecting students who game technical interviews._[1]_ Even when you finally got (or read) the solution, continue to dissect the problem further. Attempt to prove the solution formally and rigorously. Question what assumptions or aspects of the problem makes the solution valid. Discuss the problem with friends. This will definitely help your general problem solving skills.
 
