@@ -12,7 +12,7 @@ $ npm install -g outline-md
 - Run outline to regenerate html files.
 
 ```
-outline-md
+outline
 ```
 # Credits
 
