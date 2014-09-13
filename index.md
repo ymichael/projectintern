@@ -193,7 +193,7 @@ In your second semester, you get the choice between two tracks for Data Structur
 
 __If you can do it, (you need an A- and above for your introductory programming module), you should do CS2020.__ It cannot be stressed enough how important Data Structures and Algorithms is in getting an internship offer. (See the technical interview section.) Learning these concepts earlier means more time for you to think about them and get good at apply them.
 
-Again, CS2020 is more align with the equivalent courses in the top CS colleges.
+Again, CS2020 is more aligned with the equivalent courses in the top CS colleges.
 
 #### CS3230 - Algorithms
 Take this class seriously. It is unfortunate due to the large class size that past iterations of this course have not been conducted in the most conducive manner. However do not underestimate the importance of acquiring strong and formal knowledge of algorithm, proofs, and basic complexity theory.
