@@ -2,18 +2,14 @@
 
 Contains information about summer internships, with a focus on NUS SoC.
 
+
+
 # Generating Site
-- Install [outline-md](https://github.com/ymichael/outline).
-
-```
-$ npm install -g outline-md
+- Install [jekyll](http://jekyllrb.com/)
+- `jekyll serve --watch`
 ```
 
-- Run outline to regenerate html files.
 
-```
-outline
-```
 # Credits
 
 Special thanks to: [cedric][1], [div][2], [kahhong][3] & [zichun][4] for getting this off the ground.
