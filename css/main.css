@@ -1,90 +1,41 @@
 html, body {
-	font-family: Palatino,"Palatino Linotype",serif;
-	font-size: 18px;
-	line-height: 22px;
+	font-family: Palatino, "Palatino Linotype", serif;
+	font-size: 20px;
 	color: #333;
 }
 
 /**
- * Desktop
+ * HEADER BANNER
  */
+header {
+	padding: 40px;
+	margin: 0;
+}
+
+h1 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 45px;
+	font-weight: bold;
+	letter-spacing: -0.02em;
+	margin: 0;
+	padding: 0;
+}
+
 @media screen and (min-width: 700px) {
-	#container {
+	.center {
 		width: 720px;
 		padding: 30px;
 		margin: auto;
 	}
-
-	#stump {
-		position: fixed;
-		float: left;
-		width: 190px;
-	}
-
-	#main {
-		margin-top: 0;
-		margin-left: 220px;
-	}
 }
 
-/**
- * Mobile
- */
 @media screen and (max-width: 700px) {
-	#container {
+	h1 {
+		font-size: 45spx;
+	}
+	.center {
 		max-width: 600px;
 		padding: 30px;
 		margin: auto;
 	}
-}
-
-
-/**
- * Generic Styles
- */
-#siteheader {
-	text-transform: uppercase;
-	font-family: 'Open Sans', sans-serif;
-	font-size: 22px;
-	font-weight: bold;
-	color: #0b4b9e;
-}
-
-.link {
-	font-weight: bold;
-	color: #0b4b9e;
-}
-
-.what {
-	color: #777;
-	font-size: 17px;
-	line-height: 21px;
-}
-
-blockquote {
-	margin-left: 0;
-	margin-right: 0;
-	padding-left: 30px;
-	padding-right: 30px;
-	border-left: 8px solid #deebfd;
-}
-
-footer {
-	color: #888;
-	font-size: 17px;
-	line-height: 21px;	
-}
-
-header ul {
-	padding: 0;
-	margin: 0;
-}
-
-header li {
-	padding: 5px 0;
-	list-style: none inside;
-}
-
-#toc a, a {
-	color: #555;
 }

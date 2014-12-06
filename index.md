@@ -1,7 +1,9 @@
 ---
-layout: base
+layout: default
+title: Project Intern
 ---
-# What is Project Intern?
+
+<!-- # What is Project Intern?
 Project Intern is a collection of various initiatives to get more SoC students summer internships with tech companies.  This site is one of the initiatives. We hope to consolidate all the information regarding getting an overseas summer internship. With a focus on:
 
 - NUS SoC students
@@ -298,3 +300,4 @@ Your resume has another role on top of getting you past the initial filter and l
 - https://www.quora.com/Engineering-Recruiting/What-should-I-do-in-the-next-6-months-to-get-into-a-company-like-Amazon-Google
 - https://www.quora.com/Algorithms/What-are-the-ways-to-utilize-6-months-to-build-skill-set-to-get-into-Facebook-or-Google/answer/Nandish-Punter
 - [Get that job at Facebook: A note by an engineer at Facebook about the entire process and what to look out for.](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920#)
+ -->
