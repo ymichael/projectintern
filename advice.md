@@ -109,6 +109,7 @@ which you need to improve upon. Its never too early to start, even as a
 freshman (yes, we have precedence).
 
 ## NUS SoC Specific Advice
+
 ### Mandatory Modules to take seriously
 The following CS modules are mandatory for all students. Yet, it is easy to
 neglect them and/or not give them as much attention as they deserve. Many
@@ -126,6 +127,7 @@ application design, working with a larger than usual codebase, as well as level
 up in terms of your coding competency.
 
 ### Optional Modules to take
+
 #### CS1101S - Programming Methodology
 In your first semester, you get a choice between CS1010 and CS1101S. Take the
 latter. No seriously. While CS1101S is obviously going to be more intensive,
@@ -166,6 +168,7 @@ manner. However do not underestimate the importance of acquiring strong and
 formal knowledge of algorithm, proofs, and basic complexity theory.
 
 ### Other things
+
 #### Teach. Be a teaching assistant if you can
 If you get the chance, become a TA. It is no secret that you learn when you
 teach. Most people are turned away because teaching is a highly time consuming

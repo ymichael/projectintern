@@ -1,6 +1,53 @@
 html, body {
-	font-family: Palatino, "Palatino Linotype", serif;
-	font-size: 20px;
-	color: #333;
+    font-family: Palatino,"Palatino Linotype",serif;
+    font-size: 18px;
+    line-height: 22px;
+    color: #333;
 }
 
+h1, h2, h3, h4, h5 {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 800;
+}
+
+h1, h2, h3, h4, h5, p {
+    width: 720px;
+    padding: 0 20px;
+}
+
+nav, .contents {
+    width: 720px;
+    margin: 0 auto;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+blockquote {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-left: 8px solid #deebfd;
+}
+
+footer {
+    color: #888;
+    font-size: 17px;
+    line-height: 21px;  
+}
+
+header ul {
+    padding: 0;
+    margin: 0;
+}
+
+header li {
+    padding: 5px 0;
+    list-style: none inside;
+}

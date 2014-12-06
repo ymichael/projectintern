@@ -5,10 +5,7 @@ permalink: /interviews/
 ---
 # Technical Interviews
 
-There are a ton of resources for this on the internet. Here are two pretty
-popular ones:
-- <http://steve-yegge.blogspot.sg/2008/03/get-that-job-at-google.html>
-- <https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920>
+There are a ton of resources for this on the internet.
 
 At a high level, the interview is really meant to be a conversation to access:
 - If you can fit in as a "peer", based on your ability to take part in technical
@@ -41,9 +38,9 @@ Most interviews last from 45 minutes to an hour.
 Outline of a typical interview:
 
 0. Intro, soft questions
-- Actual questions (usually only one) - the bulk of time is spent here (30 - 45
+1. Actual questions (usually only one) - the bulk of time is spent here (30 - 45
   mins)
-- Q&A - you get to ask questions here.
+2. Q&A - you get to ask questions here.
 
 
 ## Question types

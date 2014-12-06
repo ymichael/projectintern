@@ -12,6 +12,7 @@ first internship. The key point to note here is that _tech resumes differ from
 normal resumes._
 
 The following resources best explain how to get your resume right:
+
 - <http://www.careercup.com/resume>
 - <https://www.quora.com/Job-Search/What-are-common-mistakes-that-applicants-make-when-writing-their-resumes-for-tech-companies/answer/Gayle-Laakmann-McDowell>
 - <http://www.youtube.com/watch?v=rEJzOhC5ZtQ> - Video of a presentation by Gayle

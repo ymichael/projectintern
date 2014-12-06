@@ -10,9 +10,9 @@ overlap somewhat.
 Here is an overview of the typical recruitment process:
 
 0. Apply
-- First Contact
-- Phone Screens & Technical Interviews
-- Offer
+1. First Contact
+2. Phone Screens & Technical Interviews
+3. Offer
 
 ## Apply
 This is the first step you need to take. Whether it's sending your resume,
@@ -25,9 +25,9 @@ __If you don't make contact, you are never going to get recruited.__
 Application channels:
 
 0. Job's site, eg. <google.com/jobs>
-- Career fair
-- Info sessions/Tech talks
-- Referrals (from friends, previous interns etc)
+1. Career fair
+2. Info sessions/Tech talks
+3. Referrals (from friends, previous interns etc)
 
 __Internship applications start in the fall (Sept) and stretch till Jan. You
 should start ASAP. Don't wait till its too late.__
@@ -69,15 +69,15 @@ Most people fail here due to __a lack of preparation__.
 
 Some of the questions asked might include:
 
-- recall questions
+- Recall questions
 - CS fundamentals
     - algorithms
     - operating systems
     - networks
-- technical discussions
-- coding
-- problem solving
-- runtime analysis
+- Technical discussions
+- Coding
+- Problem solving
+- Runtime analysis
 
 #### Onsites (rare for interns)
 Some companies prefer to have these instead of over-the-phone interviews. Some
