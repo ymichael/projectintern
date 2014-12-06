@@ -3,39 +3,3 @@ html, body {
 	font-size: 20px;
 	color: #333;
 }
-
-/**
- * HEADER BANNER
- */
-header {
-	padding: 40px;
-	margin: 0;
-}
-
-h1 {
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size: 45px;
-	font-weight: bold;
-	letter-spacing: -0.02em;
-	margin: 0;
-	padding: 0;
-}
-
-@media screen and (min-width: 700px) {
-	.center {
-		width: 720px;
-		padding: 30px;
-		margin: auto;
-	}
-}
-
-@media screen and (max-width: 700px) {
-	h1 {
-		font-size: 45spx;
-	}
-	.center {
-		max-width: 600px;
-		padding: 30px;
-		margin: auto;
-	}
-}
