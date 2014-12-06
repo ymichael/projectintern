@@ -10,7 +10,64 @@
         <link rel="stylesheet" href="/css/main.css">
     </head>
     <body itemscope itemtype="http://schema.org/WebPage">
-        <div role="main" class="contents">{{ content }}</div>
+        <div id="container">
+            <div id="stump">
+                <header>
+                    <h1>Project Intern</h1>
+                </header>
+                <div class="what">
+                    <ol id="toc">
+                        <li>
+                            <a href="#h-why">
+                                Why a summer internship?
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#h-whos-hiring">
+                                Who's hiring?
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#h-process">
+                                The Recruitment Process
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#h-resume">
+                                The Resume
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#h-interviews">
+                                Technical Interviews
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#h-advice">
+                                How to prime yourself?
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#h-resources">
+                                Resources
+                            </a>
+                        </li>
+                    </ol>
+                </div>
+                <footer>
+                    <p>
+                        <a class="link" href="https://github.com/ymichael/projectintern"> Contribute Here</a>
+                        <br><br>
+                        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US" target="blank">
+                            <img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png">
+                        </a>
+                    </p>
+                </footer>
+            </div>
+            <div id="main">
+                <div id="doc" role="main">{{ content }}</div>
+            </div>
+        </div>
     </body>
     <script>
         // Google Analytics.

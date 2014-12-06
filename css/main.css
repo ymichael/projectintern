@@ -5,27 +5,56 @@ html, body {
     color: #333;
 }
 
-h1, h2, h3, h4, h5 {
-    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-weight: 800;
+/**
+ * Desktop
+ */
+@media screen and (min-width: 900px) {
+    #container {
+        width: 880px;
+        padding: 30px;
+        margin: auto;
+    }
+
+    #stump {
+        position: fixed;
+        float: left;
+        width: 270px;
+    }
+
+    #main {
+        margin-top: 0;
+        margin-left: 285px;
+    }
 }
 
-h1, h2, h3, h4, h5, p {
-    width: 720px;
-    padding: 0 20px;
+/**
+ * Mobile
+ */
+@media screen and (max-width: 900px) {
+    #container {
+        max-width: 600px;
+        padding: 30px;
+        margin: auto;
+    }
 }
 
-nav, .contents {
-    width: 720px;
-    margin: 0 auto;
+
+/**
+ * Generic Styles
+ */
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #0b4b9e;
 }
 
-a {
-  color: #000;
-  text-decoration: none;
+h2 {
+    padding-top: 20px;
 }
-a:hover {
-  text-decoration: underline;
+
+.link {
+    font-weight: bold;
+    color: #0b4b9e;
 }
 
 blockquote {
@@ -50,4 +79,8 @@ header ul {
 header li {
     padding: 5px 0;
     list-style: none inside;
+}
+
+a {
+    color: #555;
 }
