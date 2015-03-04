@@ -253,6 +253,7 @@ The following resources best explain how to get your resume right:
 There are a ton of resources for this on the internet.
 
 At a high level, the interview is really meant to be a conversation to access:
+
 - If you can fit in as a "peer", based on your ability to take part in technical
   discussions and to converse on some level with your interviewer.
 - How well you measure up against other candidates. _Are you good enough?_
