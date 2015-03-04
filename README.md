@@ -7,8 +7,6 @@ Contains information about summer internships, with a focus on NUS SoC.
 # Generating Site
 - Install [jekyll](http://jekyllrb.com/)
 - `jekyll serve --watch`
-```
-
 
 # Credits
 
